@@ -1,0 +1,5 @@
+.columns {
+    border: 10px solid;
+    border-image: linear-gradient(to right, red, blue, yellow, rgb(255, 81, 0),
+     rgb(21, 255, 0), rgb(58, 3, 49), red) 1;
+}
